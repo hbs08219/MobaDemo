@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A8370CDA-4491-4AB8-9DC8-4398394BCF69}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Game",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
